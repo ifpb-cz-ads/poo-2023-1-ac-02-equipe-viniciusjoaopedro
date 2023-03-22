@@ -21,8 +21,10 @@ Ao tentar executar o programa após excluir o arquivo .class ocorrerá um erro d
 
 ## Questão 5: Mude o nome do método “main” para “start”, compile e execute. O que aconteceu?
 Ocorreu o seguinte erro ao compilar o programa:
+
 `Error: Main method not found in class BM_Q3, please define the main method as:
    public static void main(String[] args)`
+   
 O erro ocorreu pois não havia um método principal no código.
 
 ## Questão 7: Experimente escrever todo o programa anterior em maiúsculo, compile e execute. O que aconteceu?
