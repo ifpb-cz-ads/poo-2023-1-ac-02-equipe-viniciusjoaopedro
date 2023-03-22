@@ -14,3 +14,7 @@ JRE - Java Runtime Environment (Ambiente de Tempo de Execução Java) é compost
 JDK - Java Development Kit (Kit de Desenvolvimento Java) contém o JRE e um conjunto de ferramentas que permitem desenvolver uma aplicação Java.
 
 Assim, o JRE possui os itens necessários para o Java rodar, mas não para desenvolver uma aplicação Java. Já o JDK possui tanto o JRE quanto os recursos necessários para desenvolvedores.
+
+## Questão 4: Compile o programa desenvolvido no exercício anterior. A seguir apague o arquivo .class gerado e tente executar o programa. O que aconteceu?
+
+Ao tentar executar o programa após excluir o arquivo .class ocorrerá um erro de tempo de execução como "ClassNotFoundException", pois a JVM (Máquina Virtual Java) não tem mais o arquivo em formato bytecode (.class) para carregar a classe e executar corretamente.
