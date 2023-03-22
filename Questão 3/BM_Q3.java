@@ -1,4 +1,4 @@
-// Crie um programa Java que imprima o seguinte texto “Terminei a primeira aula com um programa Java!”
+// Crie um programa Java que imprima o seguinte texto "Terminei a primeira aula com um programa Java!"
 
 class BM_Q3 {
   public static void main(String[] args) {
